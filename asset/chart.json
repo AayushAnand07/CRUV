@@ -1,0 +1,79 @@
+{
+  "seats": [
+    {
+      "seatNo": 12,
+      "reservations": [
+        {
+          "from": "New Delhi",
+          "to": "Agra"
+        },
+        {
+          "from": "Kanpur",
+          "to": "Patna"
+        }
+      ]
+    },
+    {
+      "seatNo": 24,
+      "reservations": [
+        {
+          "from": "Agra",
+          "to": "Kanpur"
+        }
+      ]
+    },
+    {
+      "seatNo": 25,
+      "reservations": [
+        {
+          "from": "Agra",
+          "to": "Kanpur"
+        }
+      ]
+    },
+    {
+      "seatNo": 26,
+      "reservations": [
+        {
+          "from": "Agra",
+          "to": "Kanpur"
+        }
+      ]
+    },
+    {
+      "seatNo": 54,
+      "reservations": [
+        {
+          "from": "Agra",
+          "to": "Kanpur"
+        }
+      ]
+    },
+    {
+      "seatNo": 31,
+      "reservations": [
+        {
+          "from": "Agra",
+          "to": "Kanpur"
+        }
+      ]
+    },
+    {
+      "seatNo": 34,
+      "reservations": [
+        {
+          "from": "Agra",
+          "to": "Kanpur"
+        },
+        {
+          "from": "Varanasi",
+          "to": "Patna"
+        },
+        {
+          "from": "Patna",
+          "to": "Kolkata"
+        }
+      ]
+    }
+  ]
+}
